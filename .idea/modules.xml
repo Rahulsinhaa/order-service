@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/oreder service.iml" filepath="$PROJECT_DIR$/.idea/oreder service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oreder-service/oreder-service.iml" filepath="$PROJECT_DIR$/oreder-service/oreder-service.iml" />
+    </modules>
+  </component>
+</project>
